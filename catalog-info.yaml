@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "k6_Perf_Test_via_cloud-based_load_generators"
+  description: "Run Performance Test in a cost-efficient manner"
+  annotations:
+    github.com/project-slug: AKUMAR62/load-test
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "AKUMAR62"

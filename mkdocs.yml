@@ -1,0 +1,17 @@
+site_name: "k6_Perf_Test_via_cloud-based_load_generators"
+site_description: "Run Performance Test in a cost-efficient manner"
+
+nav:
+  - Overview: index.md
+  - Concepts: concepts.md
+  - Tutorials:
+    - Tutorial Apple: tutorials/tutorial-apple.md
+    - Tutorial Orange: tutorials/tutorial-orange.md
+    - Tutorial Banana: tutorials/tutorial-banana.md
+    - Tutorial Lemon: tutorials/tutorial-lemon.md
+  - Support: support.md
+  - Roadmap: roadmap.md
+  - Events: events.md
+
+plugins:
+  - techdocs-core
